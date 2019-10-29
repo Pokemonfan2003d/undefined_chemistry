@@ -5,6 +5,6 @@ So, I planned to make a game in ggez
 Plans:
 - dungeon crawler
 - with a crafting system
-- roughelike?
+- rouguelike?
 
 but more on that at Plans.md
